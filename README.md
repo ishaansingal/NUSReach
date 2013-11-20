@@ -1,5 +1,6 @@
-final-project-group-7
-=====================
+NUSREACH
+
+This application runs only on iOS6 and above.
 
 Features Implemented:
 - Select preferences in the first page
@@ -20,10 +21,12 @@ Also, currently only 3 locations have been feeded in the MAP (YIH, Central Libra
 - Two types of annotations: when zoomed out, a table view can be seen, when zoomed in individual events
   - Cliking on the info button will show the details of that event 
 
-To Do:
 - Facebook Sync
+- 
 - Bus Directions
+- 
 - My Location recommendations
+- 
 - View My Events
-- Customize theoverall UI
-- New specification - List the events in some form other than map
+
+- List the events in some form other than map
